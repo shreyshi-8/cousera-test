@@ -1,2 +1,2 @@
 # cousera-test
-testt repo fir cousera
+testt repo for coursera
